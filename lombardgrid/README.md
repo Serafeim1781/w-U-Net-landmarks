@@ -1,0 +1,1 @@
+This is where the scripts look for the lombard grid files, as well where the preprocess pipeline will store the files betwin each step.
